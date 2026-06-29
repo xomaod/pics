@@ -1,3 +1,8 @@
+--- API Hugging face ---
+wget --header="Authorization: Bearer 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" https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/vae/wan_2.1_vae.safetensors
+
+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
+
 --- API Key CVITAI ----
 53ad9eb6a4fadd73083f10e0c89c4a14
 wget --content-disposition "https://civitai.com/api/download/models/3027605?fileId=2906387&token=53ad9eb6a4fadd73083f10e0c89c4a14" -O moody_aesthetics_lora.safetensors
