@@ -1,6 +1,5 @@
 --- API Hugging face ---
-wget --header="Authorization: Bearer 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" https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/vae/wan_2.1_vae.safetensors
-
+wget --header="Authorization: Bearer xxxxxxxx" https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/vae/wan_2.1_vae.safetensors
 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
 
 --- API Key CVITAI ----
