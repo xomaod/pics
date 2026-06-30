@@ -1,5 +1,3 @@
---- API HF ---
-https://gemini.google.com/app/c085277491f364b4
 
 --- API Key CVITAI ----
 53ad9eb6a4fadd73083f10e0c89c4a14
