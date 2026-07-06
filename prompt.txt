@@ -23,8 +23,11 @@ A cinematic medium full shot, [three-quarter view], 1girl, solo, a beautiful you
 ---- Fan Cam -----
 A hyper-realistic, vibrant live stadium broadcast Jumbotron screen view (FAN CAM). The screen displays a beautiful East Asian woman with a ponytail clear forehead hair style, smiling, glowing natural skin, her body in the center, smiling brightly and waving her left hand at the camera. She has a small England flags painted on her cheeks. She is wearing a tight-fitting white athletic tank top with a subtle England crest emblem on the front. In her right hand, she proudly holds a small England flag. The background behind her is filled with a dense, ecstatic crowd of 'England' supporters wearing England jerseys, cheering and waving scarves. Below the main screen, a glimpse of the real stadium crowd holding up scarves and flags is visible under dramatic stadium lighting. Authentic sports broadcast aesthetic, highly detailed, sharp contrast, cinematic atmosphere.
 
+---- Template Bluescreen ----
+[front view full body shot] A hyper-realistic photograph of 1girl, solo, beautiful East Asian woman with a stylish bob haircut, smiling, glowing natural skin. Extremely voluptuous figure, hourglass body shape in a white slim fit tank top and a white short lagging, standing in a green screen background.
+
 ---- Fashion ----
-[front view] A hyper-realistic photograph of 1girl, solo, beautiful East Asian woman with a stylish Wavy haircut, smiling, glowing natural skin. Extremely voluptuous figure, hourglass body shape in a simple black tank top and pleated khaki shorts, posing on a pathway in a lush urban park. Deeply blurred trees create a serene green background. (Park)
+[front view] A hyper-realistic photograph of 1girl, solo, beautiful East Asian woman with a stylish Wavy haircut, smiling, glowing natural skin. Extremely voluptuous figure, hourglass body shape in a silk lace-trimmed camisole and beige shorts, standing in a luxurious hotel lobby with marble columns. The warm light and opulent details are softly blurred. (Hotel Lobby)
 
 
 -- A photorealistic portrait of a model in a sleeveless ivory blazer and black tailored shorts, posing in a contemporary art gallery. A few large, abstracted paintings provide a softly blurred background. (Art Gallery)
